@@ -1,0 +1,8 @@
+bin\Debug\yjl.exe
+bin\Debug\yjl.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\yjl.Form1.resources
+obj\Debug\yjl.Properties.Resources.resources
+obj\Debug\yjl.csproj.GenerateResource.Cache
+obj\Debug\yjl.exe
+obj\Debug\yjl.pdb
